@@ -4,7 +4,7 @@
 
 ## Demo
 
-[Play it here](http://trapped.ackx.net/) from any recent browser. Mouse click to tap to move around.
+[Play it here](http://trapped.ackx.net/) from any recent browser. Mouse click or tap to move around.
 
 ## Gameplay
 
@@ -12,7 +12,7 @@ You are trapped in a labyrinth. The trick: the walls only appear as you get clos
 
 ![Walls hidden](/assets/img/screenshots/hidden.png)
 
-![Walls hidden](/assets/img/screenshots/visible.png)
+![Walls visible](/assets/img/screenshots/visible.png)
 
 ## Current state
 
