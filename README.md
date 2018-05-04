@@ -4,11 +4,12 @@
 
 ## Demo
 
-[Play it here](http://trapped.ackx.net/) from any recent browser. Mouse click or tap to move around.
+[Play it here](https://play.sugoi.be/trapped) from any recent browser.
+Mouse click or tap to move around.
 
 ## Gameplay
 
-You are trapped in a labyrinth. The trick: the walls only appear as you get close to them.
+You are trapped in a labyrinth. The trick: the walls only appear as you get close to them!
 
 ![Walls hidden](/assets/img/screenshots/hidden.png)
 
@@ -24,7 +25,7 @@ You are trapped in a labyrinth. The trick: the walls only appear as you get clos
 
 * Checkout the project
 * Fire any HTTP server, for instance `python -m SimpleHTTPServer 8080`
-* No plugin needed, this is pure HTML5 and javascript.
+* No plugin needed, this is pure HTML5 and javascript using Phaser.
 
 ## Code
 
@@ -34,6 +35,6 @@ The main logic is in `Labyrinth.js`.
 
 ## License
 
-GNU General Public License v3, except for game engine and sprites.
+GNU General Public License v3, except for the game engine and the sprites.
 
 ![GNU GPL v3](https://www.gnu.org/graphics/gplv3-88x31.png)
